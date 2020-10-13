@@ -5,6 +5,7 @@ public class demo1 {
         System.out.println("beijing is a good city");
         System.out.println("2020-10-13");
         System.out.println("2020-10-13-02");
+        System.out.println("2020-10-13-03");
     }
 
 }
